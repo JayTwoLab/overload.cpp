@@ -40,3 +40,12 @@ int main() {
 [2] String type: Hello
 ```
 
+### License
+
+- MIT License
+ 
+### Contact
+
+- Leave me a issue.
+   - https://github.com/JayTwoLab/overload.cpp
+
