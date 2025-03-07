@@ -1,7 +1,12 @@
 # overload.cpp
 
-- C++ overload header for visitor pattern
-- How to use : just include `overload.hpp`
+- `overload.cpp` is a project that helps make it easier to implement the `visitor pattern` in `C++17`.
+- When using 'std::visit', you can easily overload multiple lambda functions (anonymous functions) to create concise processing for different types. 
+
+### How to use
+
+- Include the `overload.hpp` header file in the project.
+- When using `std::visit`, use the 'overload' structure to overload multiple lambda functions.
 
 ### Sample code
 
